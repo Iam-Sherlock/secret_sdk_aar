@@ -28,7 +28,7 @@ class MySecureSdkPlugin : FlutterPlugin, MethodCallHandler {
   }
 
   private fun generateSecret(): String {
-    return "Super Secret Value 🚀 'Hi Raghunathan! The AAR Method is Working'"
+    return "Super Secret Value 🚀 'Hi Everyone! The AAR Method is Working'"
   }
 
   override fun onDetachedFromEngine(binding: FlutterPlugin.FlutterPluginBinding) {
